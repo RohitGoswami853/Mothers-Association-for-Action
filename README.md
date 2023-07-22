@@ -1,7 +1,7 @@
 # Mother's Association for Action
 ### This is paid frontend project for a ngo which helps to educate under privileged children in the country.
 ##
-[WEBSITE LINK: Mothers-Association-for-Action/](https://rohitgoswami853.github.io/Mothers-Association-for-Action/)
+[WEBSITE LINK: Mothers-Association-for-Action/](http://www.maakol.org/)
 ##
 I have used pure html, css and js for the project to remove any extra deployment cost.
 
